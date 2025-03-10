@@ -1,8 +1,7 @@
 Hi, I’m The Anomaly (Favour Adekogbe). 
-- A frontend engineer, electrical and electronics engineering major, writer and poet.
+- A frontend & UX engineer, technical lead, product manager, electrical & electronics engineer, writer and poet.
 - I enjoy logic, and problem solving.
-- I’m interested in software engineering, data science, robotics, automation and artificial intelligence.
-- I’m currently learning python programming and improving my knowledge on frontend libraries.
+- I’m interested in software engineering, robotics, automation, and artificial intelligence.
 - I’m looking to collaborate on fun, challenging projects.
 - How to reach me:
 - - via mail: favouradekogbe@gmail.com
