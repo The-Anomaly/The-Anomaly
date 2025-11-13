@@ -5,7 +5,7 @@ Hi, I’m The Anomaly (Favour Adekogbe).
 - I’m looking to collaborate on fun, challenging projects.
 - How to reach me:
 - - via mail: favouradekogbe@gmail.com
-- - via linkedIn: https://linkedin.com/in/favour-adekogbe
+- - via linkedIn: https://linkedin.com/in/favouradekogbe
 
 <!---
 The-Anomaly/The-Anomaly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
